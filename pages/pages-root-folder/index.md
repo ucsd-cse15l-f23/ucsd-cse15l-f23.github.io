@@ -28,10 +28,13 @@ title: "Software Tools & Techniques Lab (UCSD CSE15L S23)"
 
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
 
-**This is the page for the spring 2023 edition of the course.**
+**This is the page for the fall 2023 edition of the course.**
 
 ## Material and Schedule
 
+Coming soon!
+
+<!--
 <ul class="material">
     {% for post in site.categories.week reversed %}
     <li class="{% if post.current %}current{% else %}gray{% endif %}">
@@ -45,12 +48,11 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
     </li>
     {% endfor %}
 </ul>
+-->
 
 ## Office Hours Calendar
 
-[Direct Link to Office Hours Calendar](https://calendar.google.com/calendar/embed?src=c_2594c7c69d61f7e35289ee52a14649e50725f30c6f3946bbf5eb7d611913c54e%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y18yNTk0YzdjNjlkNjFmN2UzNTI4OWVlNTJhMTQ2NDllNTA3MjVmMzBjNmYzOTQ2YmJmNWViN2Q2MTE5MTNjNTRlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23A79B8E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Coming soon!
 
 ## Frequently Asked Questions
 
@@ -83,8 +85,8 @@ enrollment.
 
 **Q: I have a question about enrollment or the waitlist.**
 
-Check the web registration across all the sections; the course has 10 separate
-lab sections, and their enrollments and waitlists are independent and
+Check the web registration across all the sections; the course has many
+separate lab sections, and their enrollments and waitlists are independent and
 fluctuate. Contact [CSE
 Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising) for more
 information on enrollment and waitlist processes.

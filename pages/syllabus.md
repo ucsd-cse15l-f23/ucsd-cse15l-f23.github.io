@@ -21,6 +21,8 @@ header: no
 
 ## Course Components {#components}
 
+**This page is a draft that may be edited before the fall quarter starts**
+
 There are several components to the course:
 
 - **Lab sessions**
@@ -31,10 +33,9 @@ There are several components to the course:
 
 ### Labs
 
-The course's lab component meets for 2 hours on Wednesdays or Thursdays. In
-each lab you'll switch between working on your own, working in pairs, and
-participating in group discussions about your approach, lessons learned,
-programming problems, and so on.
+The course's lab component meets for 2 hours. In each lab you'll switch between
+working on your own, working in pairs, and participating in group discussions
+about your approach, lessons learned, programming problems, and so on.
 
 The lab sessions and groups will be led by TAs and tutors, who will note your
 participation in these discussions for credit. Note that you must
@@ -89,24 +90,21 @@ We'll post specific final deadlines for this feedback with each assignment.
 
 ### Skill Demonstrations
 
-Twice during the quarter (week 5 and week 10), we will spend lab doing skill
-demonstrations -- this course's version of exams. In the lab, you'll spend 10
-minutes 1-on-1 with a staff member doing a short demonstration of using some of
-the skills you've learned. You'll be given a problem to practice in advance, and
-then in the demo you'll answer some questions about extending and/or modifying
-the in-advance task. You can look at the skill demonstrations from previous
-offerings for a sense of what tasks we assign (though we may or may not use the
-same types in this offering) [[W22 demo
+Several times during the quarter, we will spend lab doing skill demonstrations
+-- this course's version of exams. You'll be given a problem to practice in
+advance, and then in the demo you'll answer some questions about extending
+and/or modifying the in-advance task. You can look at the skill demonstrations
+from previous offerings for a sense of what tasks we assign (though we may or
+may not use the same types in this offering) [[W22 demo
 1]](https://ucsd-cse15l-w22.github.io/week/week5/#skill-demonstration-1) [[W22
 demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
+
+We'll post more details about the logistics and administration of the skill
+demonstrations when the quarter starts.
 
 On each you'll get a **Full Pass**, **Partial Pass**, or **Try Again** as your score.
 In finals week, you'll have the opportunity to improve the score for either or
 both skill demonstration.
-
-(Originally, we had listed these as being graded only pass/fail, with completing
-*all* the steps required for passing. Rather than require all the steps for each
-of them, we distinguish the different achievement levels a bit more.)
 
 ## Grading {#grading}
 
@@ -179,14 +177,6 @@ after you receive your grade for it.
 ### Quizzes and Academic Integrity
 
 You can work on weekly quizzes with other students.
-
-## Consent to Participate in Educational Research
-
-You can download a copy of the form below
-[here](https://docs.google.com/document/d/14HNe2U5-oBXtWgNKqNpTkhPiBjEhnlOKX2DJfBhnOO8/)
-if you need a copy to fill out.
-
-<iframe width="100%" height="800px" src="https://docs.google.com/document/d/e/2PACX-1vSssZh6Sb22jt0dKnwc2NHG7wKPCE1Ehi-o2QdJUd9c1MZjY_1AvcIrH-a2tTIcHEROGfGFJhNfJAjW/pub?embedded=true"></iframe>
 
 
 
