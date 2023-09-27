@@ -10,3 +10,5 @@
   url: "/weeks/"
   side: left
   dropdown:
+    - title: "Week 1"
+      url: "/week/week1"
