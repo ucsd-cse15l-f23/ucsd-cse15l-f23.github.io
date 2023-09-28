@@ -47,9 +47,9 @@ without it impacting your grade (see [Grading](#grading) below).
 
 ### Lecture Sessions
 
-Lecture sessions are on Monday and Wednesday. You can only attend the section
-(9am or 10am) to which you are assigned. Depending how things go after the first
-week or two, we might relax this and allow attendance in either section.
+Lecture sessions are on Monday and Wednesday. You can only attend the section to which you are assigned.
+Depending how things go after the first
+week or two, we might relax this and allow attendance in any section.
 
 In each lecture, we'll have a paper handout (also available electronically). At
 the end of lecture you'll have a chance submit your handout to Gradescope. You
@@ -58,7 +58,7 @@ through the web interface. To get participation credit for lecture, you have to
 submit a handout filled in with reasonable effort. It's fine if answers aren't
 right, and some days don't have right answers. It's fine if things aren't
 totally complete, and some days we won't finish everything. But it should be
-obvious that you followed along and completed the exercises we did in class.
+clear from what you submit that you followed along and worked on the exercises we did in class.
 
 If you miss class, you can submit them up until the start of the next class as
 late submissions.  We recommend completing them while watching the podcast.
@@ -69,7 +69,7 @@ required submissions and how that correlates with your grade.
 ### Weekly Quizzes
 
 Each week there will be an online, untimed, multiple-tries quiz due on
-_Wednesday at 9 am_ before class (including week 1). The purpose of this quiz is to make sure
+_Wednesday at 9 am_ before the first lecture session (including week 1). The purpose of this quiz is to make sure
 everyone has checked in on the concepts we will be using in lab on Wednesday and
 Thursday. They are open for late submission until the end of the quarter, but
 see grading below for how late submissions correspond to grades.
@@ -78,7 +78,7 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Lab Reports/Portfolio Posts
 
-Every other Monday (of weeks 2, 4, 6, 8, 10) you will submit a lab report on
+Every other Monday (that's in weeks 2, 4, 6, 8, 10) you will submit a lab report on
 work from the previous week or two of lab material. This will take the form of
 a blog post on a personal site you created in the first week.  At the end of
 the quarter this means you'll have a personal web site with 5 posts detailing
@@ -90,21 +90,21 @@ We'll post specific final deadlines for this feedback with each assignment.
 
 ### Skill Demonstrations
 
-Several times during the quarter, we will spend lab doing skill demonstrations
+Several times during the quarter, you will complete a _skill demonstrations_
 -- this course's version of exams. You'll be given a problem to practice in
-advance, and then in the demo you'll answer some questions about extending
-and/or modifying the in-advance task. You can look at the skill demonstrations
+advance, and then in the demo you'll demonstrate that you can do the task plus some follow-up tasks that are presented during the demonstration.
+You can look at the skill demonstrations
 from previous offerings for a sense of what tasks we assign (though we may or
 may not use the same types in this offering) [[W22 demo
 1]](https://ucsd-cse15l-w22.github.io/week/week5/#skill-demonstration-1) [[W22
 demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
 
-We'll post more details about the logistics and administration of the skill
-demonstrations when the quarter starts.
-
 On each you'll get a **Full Pass**, **Partial Pass**, or **Try Again** as your score.
-In finals week, you'll have the opportunity to improve the score for either or
-both skill demonstration.
+In finals week, you'll have the opportunity to improve scores for some number of skill demonstrations.
+
+There will be skill demonstrations in weeks 3, 5, 7, and 9 of the quarter. More details
+about how you'll complete them will be shared in lab (you'll practice the format and we'll talk about
+scheduling them).
 
 ## Grading {#grading}
 
@@ -112,27 +112,20 @@ Each component of the course has a minimum achievement level to get an A, B, or
 C in the course. You must reach that achievement level in _all_ of the
 categories to get an A, B, or C.
 
-To get a B or better in the course, you must pass **both** skill
-demonstrations.
-  
-To pass the course, you must pass **one of two** skill demonstrations (either
-initially or with the final make-up), and have a submission/attempt for both.
-
 - **A** achievement:
-    - 6 or more lab participation (out of 8 labs that aren't skill demonstrations)
+    - 8 or more lab participation (out of 10 labs)
     - All 5 lab reports completed, at least 4 with full credit/feedback addressed
-    - **Full Pass** score on **one** skill demonstration, **Partial Pass** on the other
+    - **Full Pass** on any 3 of the skill demonstrations, **Partial Pass** on the 4th
     (either initially or with the final make-up)
 - **B** achievement:
-    - 5 or more lab participation
+    - 6 or 7 lab participation
     - All 5 lab reports completed, at least 2 with full credit/feedback addressed
-    - **Pass** or **Full Pass** on both skill demonstrations (either initially
-    or with the final make-up)
+    - **Full Pass** on any two skill demonstrations, at least a **partial pass** on the other two, OR **Full Pass** on 3 skill demonstrations and one missing/no pass (either initially or with the final make-up)
 - **C** achievement:
-    - 4 or more lab participation
+    - 4 or 5 lab participation
     - At least 3 lab reports completed, at least 2 with full credit/feedback addressed
-    - **Pass** or higher on **one** skill demonstration (either initially or
-      with the final make-up), with the other one attempted
+    - Full Pass on at least one skill demonstration, Partial Pass or above on at least 2 skill demonstrations (either initially or with the final make-up)
+
 
 Pluses and minuses will be given around the boundaries of these categories at
 the instructor's discretion and based on quiz/lecture participation.  I don't
@@ -140,7 +133,7 @@ publish an exact number for these in advance, but it's consistent across the
 class. A general guideline is: if you submit all of the lecture handouts and
 all of the quizzes on time and complete, that will definitely add a `+` to the
 grade. If you submit no lecture handouts and no quizzes, that will definitely
-add a `-` to the grade.  If you submit about half and get things generally
+add a `-` to the grade.  If you submit about half of each and get things generally
 mostly correct, there will be no modifier.
 
 ## Academic Integrity
@@ -167,8 +160,8 @@ work (and don't).
 
 ### Skill Demonstrations and Academic Integrity
 
-Instructions for skill demonstrations will be posted a few days before the lab
-in which they happen. You're free to collaborate with others on preparing for
+Instructions for skill demonstrations will be posted in the week before they happen.
+You're free to collaborate with others on preparing for
 the skill demonstration, trying things out beforehand, and so on.
 
 You **cannot** share details of _your_ skill demonstration with others until
