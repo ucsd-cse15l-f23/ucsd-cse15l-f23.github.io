@@ -69,8 +69,7 @@ required submissions and how that correlates with your grade.
 ### Weekly Quizzes
 
 Each week there will be an online, untimed, multiple-tries quiz due on
-_Wednesday at 9 am_ before the first lecture session (including week 1). The purpose of this quiz is to make sure
-everyone has checked in on the concepts we will be using in lab on Wednesday and
+_Mondays at 9 am_ before the first lecture session (except week 1, which will be due _Wednesday before 9am_). The purpose of this quiz is to make sure everyone has checked in on the concepts we will be using in lab on Tuesday and
 Thursday. They are open for late submission until the end of the quarter, but
 see grading below for how late submissions correspond to grades.
 
