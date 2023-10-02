@@ -32,9 +32,6 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
 
 ## Material and Schedule
 
-Coming soon!
-
-<!--
 <ul class="material">
     {% for post in site.categories.week reversed %}
     <li class="{% if post.current %}current{% else %}gray{% endif %}">
@@ -48,7 +45,6 @@ Coming soon!
     </li>
     {% endfor %}
 </ul>
--->
 
 ## Office Hours Calendar
 
