@@ -23,7 +23,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-title: "Software Tools & Techniques Lab (UCSD CSE15L S23)"
+title: "Software Tools & Techniques Lab (UCSD CSE15L F23)"
 ---
 
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
