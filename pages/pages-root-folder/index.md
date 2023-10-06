@@ -48,7 +48,11 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
 
 ## Office Hours Calendar
 
-Coming soon!
+[Direct Link to Office Hours Calendar](https://calendar.google.com/calendar/embed?src=c_ae456fff388a79a0ff6aaf7a52d518eaed6e53ac2452be65dbf0dee050781024%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+
+<!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y18yNTk0YzdjNjlkNjFmN2UzNTI4OWVlNTJhMTQ2NDllNTA3MjVmMzBjNmYzOTQ2YmJmNWViN2Q2MTE5MTNjNTRlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23A79B8E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y19hZTQ1NmZmZjM4OGE3OWEwZmY2YWFmN2E1MmQ1MThlYWVkNmU1M2FjMjQ1MmJlNjVkYmYwZGVlMDUwNzgxMDI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Frequently Asked Questions
 
