@@ -21,8 +21,6 @@ header: no
 
 ## Course Components {#components}
 
-**This page is a draft that may be edited before the fall quarter starts**
-
 There are several components to the course:
 
 - **Lab sessions**
